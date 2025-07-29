@@ -25,7 +25,7 @@ At my core, I'm a business-minded thinker who believes data is most powerful whe
 
 ## 📂 Featured Projects
 
-### 🏥 [Hospital Operational Efficiency (SQL)](https://github.com/jesseevwoh/hospital-efficiency-sql)
+### 🏥 [Hospital Operational Efficiency (SQL)](https://github.com/jesseevwoh/sql-hospital-operationas-analysis)
 An in-depth SQL performance analysis of medical records processing workflows. Identified turnaround time drivers, SLA compliance gaps, and internal satisfaction trends with strategic business recommendations.
 
 ### 🛍️ [Shoppen Q2 Sales Report (Power BI)](https://github.com/jesseevwoh/powerbi-shoppen-sales-analysis)
