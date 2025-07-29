@@ -4,9 +4,9 @@
 
 **Business Intelligence Analyst | Data-Driven Problem Solver | Process Optimizer**
 
-Hi, I'm Jesse — a business intelligence analyst with a passion for solving complex operational problems through data. I specialize in identifying the hidden friction points in day-to-day business processes and using data to remove inefficiencies and unlock performance.
+Hi, I'm Jesse, a business intelligence analyst with a passion for solving complex operational problems through data. I specialize in identifying the hidden friction points in day-to-day business processes and using data to remove inefficiencies and unlock performance.
 
-At my core, I'm a business-minded thinker who believes data is most powerful when it's actionable. I don’t just explore the numbers — I diagnose root causes, validate assumptions, and prescribe clear, data-informed recommendations that teams can trust and act on.
+At my core, I'm a business-minded thinker who believes data is most powerful when it's actionable. I don’t just explore the numbers; I diagnose root causes, validate assumptions, and prescribe clear, data-informed recommendations that teams can trust and act on.
 
 ---
 
