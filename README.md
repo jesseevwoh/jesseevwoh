@@ -8,7 +8,7 @@ Hi, I'm Jesse, a business intelligence analyst with a passion for solving comple
 
 At my core, I'm a business-minded thinker who believes data is most powerful when it's actionable. I don’t just explore the numbers; I diagnose root causes, validate assumptions, and prescribe clear, data-informed recommendations that teams can trust and act on.
 
-> “My goal is to act as the grease in the gears — using data to reduce friction, enhance performance, and help the business run better.”
+> “My goal is to act as the grease in the gears; using data to reduce friction, enhance performance, and help the business run better.”
 
 ---
 
